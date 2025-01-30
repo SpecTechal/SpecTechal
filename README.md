@@ -1,6 +1,6 @@
 # Hello, I'm Cody Reavis.
 
-<a href="www.linkedin.com/in/crsecurity">
+<a href="www.linkedin.com/in/crsecurity">!LinkedIn
 
 ## Introduction
 Hello there <img src="https://slackmojis.com/emojis/1532-lightsaber/download" alt="Lightsaber" width="20" height="20" /> I'm Cody (AKA) SpecTechal, a passionate cybersecurity professional with an aptitude for solving complex problems and a love for all things tech. Welcome to my GitHub repository where I share my projects, ideas, and contributions to the cybersecurity community.
