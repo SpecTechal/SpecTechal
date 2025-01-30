@@ -44,9 +44,9 @@ Hello there <img src="https://slackmojis.com/emojis/1532-lightsaber/download" al
 <img src="https://img.shields.io/badge/-DefenseStorm-0072b1?&style=for-the-badge&logo=defensestorm&logoColor=white" alt="DefenseStorm Badge" /> <img src="https://img.shields.io/badge/-ELK%20Stack-0072b1?&style=for-the-badge&logo=elk-stack&logoColor=white" alt="ELK Stack Badge" /> 
 
 ### DLP (Data Loss Prevention)
-<img src="https://img.shields.io/badge/-Palo%20Alto%20SaaS%20Security-0072b1?&style=for-the-badge&logo=palo-alto-networks&logoColor=white" alt="Palo Alto SaaS Security Badge" /> <img src="https://img.shields.io/badge/-Microsoft%20DSPM%20for%20AI-0072b1?&style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft DSPM for AI Badge" />
+<img src="https://img.shields.io/badge/-Palo%20Alto%20SaaS%20Security-0072b1?&style=for-the-badge&logo=palo-alto-networks&logoColor=white" alt="Palo Alto SaaS Security Badge" /> <img src="https://img.shields.io/badge/-Microsoft%20DSPM%20for%20AI-0072b1?&style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft DSPM for AI Badge" /> <img src="https://img.shields.io/badge/-Microsoft%20Purview-0072b1?&style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Purview Badge" />
 
 ### Deceptive Network
-<img src="https://img.shields.io/badge/-Microsoft%20DSPM%20for%20AI-0072b1?&style=for-the-badge&logo=microsoft&logoColor=white" alt="Thinkst Canary" />
+<img src="https://img.shields.io/badge/-Thinkst%20Canary-0072b1?&style=for-the-badge&logo=thinkst-canary&logoColor=white" alt="Thinkst Canary Badge" />
 
 Feel free to fill in the details for each tool and certification. Let me know if there's anything else you'd like to add or modify!
