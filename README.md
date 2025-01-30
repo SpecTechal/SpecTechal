@@ -31,9 +31,7 @@ Hello there <img src="https://slackmojis.com/emojis/1532-lightsaber/download" al
 - Swimlane Certified SOAR Administrator (Feb 2021)
 
 ### Vulnerability Scanners
-- **Tool 1**: Description or certification details
-- **Tool 2**: Description or certification details
-- **Tool 3**: Description or certification details
+- <
 
 ### Endpoint Security
 - **Tool 1**: Description or certification details
@@ -41,9 +39,9 @@ Hello there <img src="https://slackmojis.com/emojis/1532-lightsaber/download" al
 - **Tool 3**: Description or certification details
 
 ### Network Security
-- **Tool 1**: Description or certification details
-- **Tool 2**: Description or certification details
-- **Tool 3**: Description or certification details
+<img src="https://img.shields.io/badge/-Security%20Onion-0072b1?&style=for-the-badge&logo=security-onion&logoColor=white" />
+<img src="https://img.shields.io/badge/-Wireshark-0072b1?&style=for-the-badge&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
 
 ### SIEM (Security Information and Event Management)
 - **Tool 1**: Description or certification details
