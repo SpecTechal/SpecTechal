@@ -31,7 +31,7 @@ Hello there <img src="https://slackmojis.com/emojis/1532-lightsaber/download" al
 - Swimlane Certified SOAR Administrator (Feb 2021)
 
 ### Vulnerability Scanners
-<img src="https://img.shields.io/badge/-ELK%20Stack-0072b1?&style=for-the-badge&logo=elk-stack&logoColor=white" alt="ELK Stack Badge" /> <img src="https://img.shields.io/badge/-OpenVAS-0072b1?&style=for-the-badge&logo=openvas&logoColor=white" alt="OpenVAS Badge" /> <img src="https://img.shields.io/badge/-Nessus%20CE-0072b1?&style=for-the-badge&logo=nessus&logoColor=white" alt="Nessus CE Badge" />
+<img src="https://img.shields.io/badge/-ELK%20Stack-0072b1?&style=for-the-badge&logo=elk-stack&logoColor=white" alt="Rapid7 Badge" /> <img src="https://img.shields.io/badge/-OpenVAS-0072b1?&style=for-the-badge&logo=openvas&logoColor=white" alt="OpenVAS Badge" /> <img src="https://img.shields.io/badge/-Nessus%20CE-0072b1?&style=for-the-badge&logo=nessus&logoColor=white" alt="Nessus CE Badge" />
 
 ### Endpoint Security
 <img src="https://img.shields.io/badge/-Cortex%20XDR-EF3B2D?&style=for-the-badge&logo=cortex-xdr&logoColor=white" alt="Cortex XDR Badge" /> <img src="https://img.shields.io/badge/-Microsoft%20Defender-EF3B2D?&style=for-the-badge&logo=microsoft-defender&logoColor=white" alt="Microsoft Defender Badge" />
