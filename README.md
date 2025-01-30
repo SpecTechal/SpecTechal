@@ -31,7 +31,7 @@ Hello there <img src="https://slackmojis.com/emojis/1532-lightsaber/download" al
 - Swimlane Certified SOAR Administrator (Feb 2021)
 
 ### Vulnerability Scanners
-- <
+<img src="https://img.shields.io/badge/-ELK%20Stack-0072b1?&style=for-the-badge&logo=elk-stack&logoColor=white" alt="ELK Stack Badge" /> <img src="https://img.shields.io/badge/-OpenVAS-0072b1?&style=for-the-badge&logo=openvas&logoColor=white" alt="OpenVAS Badge" /> <img src="https://img.shields.io/badge/-Nessus%20CE-0072b1?&style=for-the-badge&logo=nessus&logoColor=white" alt="Nessus CE Badge" />
 
 ### Endpoint Security
 <img src="https://img.shields.io/badge/-Cortex%20XDR-EF3B2D?&style=for-the-badge&logo=cortex-xdr&logoColor=white" alt="Cortex XDR Badge" /> <img src="https://img.shields.io/badge/-Microsoft%20Defender-EF3B2D?&style=for-the-badge&logo=microsoft-defender&logoColor=white" alt="Microsoft Defender Badge" />
@@ -41,9 +41,7 @@ Hello there <img src="https://slackmojis.com/emojis/1532-lightsaber/download" al
 <img src="https://img.shields.io/badge/-Security%20Onion-0072b1?&style=for-the-badge&logo=security-onion&logoColor=red" /> <img src="https://img.shields.io/badge/-Wireshark-0072b1?&style=for-the-badge&logo=wireshark&logoColor=white" /> <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" /> <img src="https://img.shields.io/badge/-Nmap-EF3B2D?&style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap Badge" />
 
 ### SIEM (Security Information and Event Management)
-- **Tool 1**: Description or certification details
-- **Tool 2**: Description or certification details
-- **Tool 3**: Description or certification details
+<img src="https://img.shields.io/badge/-DefenseStorm-0072b1?&style=for-the-badge&logo=defensestorm&logoColor=white" alt="DefenseStorm Badge" /> <img src="https://img.shields.io/badge/-ELK%20Stack-0072b1?&style=for-the-badge&logo=elk-stack&logoColor=white" alt="ELK Stack Badge" /> 
 
 ### DLP (Data Loss Prevention)
 - **Tool 1**: Description or certification details
