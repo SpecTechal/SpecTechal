@@ -3,7 +3,7 @@
 !LinkedIn
 
 ## Introduction
-Hello there !lightsaber<img src="https://slackmojis.com/emojis/1532-lightsaber" />! I'm Cody (AKA) SpecTechal, a passionate cybersecurity professional with a aptitude for solving complex problems and a love for all things tech. Welcome to my GitHub repository where I share my projects, ideas, and contributions to the cybersecurity community.
+Hello there<img src="https://slackmojis.com/emojis/1532-lightsaber/download" alt="Lightsaber" />! I'm Cody (AKA) SpecTechal, a passionate cybersecurity professional with a aptitude for solving complex problems and a love for all things tech. Welcome to my GitHub repository where I share my projects, ideas, and contributions to the cybersecurity community.
 
 ## Objectives
 - To enhance my skills in cybersecurity and stay updated with the latest trends and technologies.
