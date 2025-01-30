@@ -7,7 +7,7 @@ Hello there <img src="https://slackmojis.com/emojis/1532-lightsaber/download" al
 
 ## Objectives
 - To enhance my skills in cybersecurity and stay updated with the latest trends and technologies.
-- To chronical my work I have done in the field.
+- To chronical some of the interesting work I have done in the field.
 - To build a strong professional network and share knowledge with the community.
 
 ## Skills and Projects
