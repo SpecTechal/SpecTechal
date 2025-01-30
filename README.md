@@ -22,6 +22,13 @@ Hello there <img src="https://slackmojis.com/emojis/1532-lightsaber/download" al
 | Vulnerability Assessment  | Project 6                        |
 
 ## Certifications and Tools
+- CompTIA Network Vulnerability Assessment Professional (Oct. 2023)
+- CompTIA Network Security Professional (Oct. 2023)
+- CompTIA PenTest+ (Oct. 2023)
+- Certified Ethical Hacker (CEH) (Aud. 2023)
+- CompTIA CySA+ ce (Apr. 2022)
+- CompTIA Security Analytics Professional (Apr 2022)
+- Swimlane Certified SOAR Administrator (Feb 2021)
 
 ### Vulnerability Scanners
 - **Tool 1**: Description or certification details
