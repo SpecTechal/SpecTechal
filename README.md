@@ -48,4 +48,4 @@ Hello there <img src="https://slackmojis.com/emojis/1532-lightsaber/download" al
 ### Deceptive Network
 <img src="https://img.shields.io/badge/-Thinkst%20Canary-0072b1?&style=for-the-badge&logo=thinkst-canary&logoColor=white" alt="Thinkst Canary Badge" />
 
-Feel free to fill in the details for each tool and certification. Let me know if there's anything else you'd like to add or modify!
+
